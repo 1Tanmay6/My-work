@@ -1,0 +1,27 @@
+body{
+    border: 3px black;
+    text-align: center;
+    background: linear-gradient(#58c96b, #dcdf35);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* position: relative; */
+}
+
+.middle{
+    margin-top: auto;
+    margin-bottom: auto;
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    margin: -50px 0 0 -50px;
+    text-align: center;
+
+}

@@ -1,0 +1,40 @@
+/* ---------------------TAG SELECTORS--------------------------*/
+
+h1{
+    color: red;
+}
+
+
+img:hover{
+    background-color: #8f2b98;
+}
+
+
+/* ---------------------CLASS SELECTORS--------------------------*/
+
+.bacon{
+    background-color: green;
+    height: 100px;
+}
+
+.eggplant{
+    background-color: red;
+    height: 100px;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+/* ---------------------ID SELECTORS--------------------------*/
+
+#heading{
+    color: red;
+}
+
+
+/*ID's are unique and can be used with one element for instance 'h1'
+  classes can be used to perform the CSS chnages over a group 
+  The precedence for these are: Tags < Classes = ID 
+  Classes starting wiht the semi-colon ':' it states that the class is a pseudo class
+  */

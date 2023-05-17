@@ -1,0 +1,142 @@
+English
+Feature Byte
+	3K6b8AaBaHapaqarawbAbhd8dUdxdpdqfPfdhAhZhwjCm9.fy
+Build ID
+	21WW3RBT601#SACJ#DACJ
+Serial Number
+	5CD1483J23
+Product Name
+	OMEN by HP Laptop 16-boxxx
+UUID
+	C1DEE1E3E5E7EAECEEF0F3F5F7FAFCFE
+Product Number
+	4C9E9PA#ACJ
+MAC Address
+	5C60BABA50F8
+System Board CT Number
+	PLKRT018JGY0LL
+MS Digital Marker
+	FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+Keyboard Type
+	*Non-Japanese Keyboard
+	Japanese Keyboard
+	New EMEA UK KB (US2)
+	New BRZL KB (UK2)
+	New BRZL KB (US3)
+	US4 (LA KB)
+	US5 (Europe KB)
+	US6 (Korea KB)
+	US7(Brazil KB)
+Realtek SmartAMP R0
+	
+System Board ID
+	88F4
+System Family
+	HP OMEN
+Preinstall OS Version
+	
+Speaker ID
+	1
+PIN Process Cycle
+	21C1
+Language
+	*English
+	Francais
+	Espanol
+	Traditional Chinese
+	Simplified Chinese
+Fan Always On
+	*Disable
+	Enable
+Action Keys Mode
+	*Disable
+	Enable
+Adaptive Battery Extender
+	Disable
+	*Enable
+Adaptive Battery Extender Status
+	Not Activated
+	*Activated
+POST Hotkey Delay (sec)
+	*0
+	5
+	10
+	15
+	20
+USB Boot
+	Disable
+	*Enable
+Network Boot
+	Disable
+	*Enable
+Network Boot Protocol
+	IPv4 (UEFI)
+	IPv6 (UEFI)
+	*IPv4+IPv6 (UEFI)
+Secure Boot
+	*Disable
+	Enable
+UEFI Boot Order
+	OS Boot Manager
+	USB Flash Drive/USB Hard Disk
+	USB CD/DVD ROM Drive
+	Network Adapter
+TPM Device
+	Hidden
+	*Available
+TPM State
+	Disable
+	*Enable
+Clear TPM
+	*No
+	Yes
+Manufacturing Programming Mode
+	Lock
+	*Unlock
+TPM Reset to Factory Defaults
+	*No
+	Yes
+TPM Activation Policy
+	*No prompts
+	Allow user to reject
+TPM version
+	d1.2
+	d2.0
+	*f2.0
+Restore Security Defaults
+	*No
+	Yes
+Secure Boot Keys
+	*Clear
+	HP
+	MSFT
+	Custom
+PIN Load Defaults
+	*No
+	Yes
+OOBE
+	*No
+	Yes
+Clear Event Log
+	*No
+	Yes
+Clear BOD
+	*No
+	Yes
+Reflow Process
+	*No
+	Yes
+Hyper-Threading
+	Disable
+	*Enable
+AOS Deployment AddOn
+	*Disable
+	Enable
+BIOS Revision
+	F.41
+Batt_LTemp
+	01 00
+Keyboard Layout
+	Full
+HW Platform Cycle
+	21C1
